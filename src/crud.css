@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://img.freepik.com/premium-vector/abstract-blue-green-gradient-color-effect-background-website-banner-poster-paper-card_120819-307.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card .card-body form input {
+    outline: none !important;
+    border: none;
+}
+
+.total {
+    transition: all 0.5s;
+}
+
+.total:hover {
+    transform: scale(1.1);
+}
